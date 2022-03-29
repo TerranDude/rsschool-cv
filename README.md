@@ -1,2 +1,2 @@
 # rsschool-cv
-link to markdown https://TerranDude.github.io/rsschool-cv/CV
+link to markdown https://TerranDude.github.io/rsschool-cv/cv
